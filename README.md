@@ -14,5 +14,6 @@ Arduino Mega
 * pH Sensor
 * 8 Channel Relay Board
 
-
+### HMI Screen Schema
 ![HMI](/images/menu.jpg)
+
